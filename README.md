@@ -12,7 +12,7 @@ Two datasets from the Istanbul Metropolitan Municipality (İBB) were used:
 - **Road maintenance announcements:** start and end times, coordinates, road segment and announcement type.
 - **Traffic speed data (2019):** average speeds in five-minute intervals for each road segment and direction.
 
-The data is not included in this repository. The notebook expects the following folder structure:
+The data is not included in this repository because it was provided by İBB for this project and is not publicly shared. To run the notebook with similar data, use the following folder structure:
 
 ```
 Veriler/
