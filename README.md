@@ -1,6 +1,6 @@
 # The Effect of Road Maintenance Works on Traffic
 
-Individual computer project, Yıldız Technical University, Department of Computer Engineering (January 2024).
+Individual computer project carried out under the supervision of a faculty advisor, Yıldız Technical University, Department of Computer Engineering (January 2024).
 
 This project looks at how road maintenance works in Istanbul change the average vehicle speed at their location, and tries to predict the average speed during a maintenance work.
 
